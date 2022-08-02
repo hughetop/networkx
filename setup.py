@@ -184,7 +184,7 @@ if __name__ == "__main__":
         project_urls=project_urls,
         classifiers=classifiers,
         packages=packages,
-        data_files=data,
+        # data_files=data,
         package_data=package_data,
         install_requires=install_requires,
         extras_require=extras_require,
